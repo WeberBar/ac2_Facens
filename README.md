@@ -23,3 +23,45 @@ Ao término inicie a segunda etapa.
 ![Foto verificação](mostrar_os_produtos.png)
 
 ### Etapa2
+
+#### Gere um relatório informando quantos produtos estão cadastrados:
+![Quantidade de Cadastros](qnt_cadastro.png)
+
+#### Gere um relatório informando o preço médio dos produtos
+![Preço Médio](preco_medio.png)
+
+#### Selecione a média dos preços dos produtos em 2 grupos: perecíveis e não perecíveis
+![Media Perecivel](media_perecivel.png)
+
+#### Selecione a média dos preços dos produtos agrupados pelo nome do produto
+![Media dos produtos](media_cada_produto.png)
+
+#### Selecione a média dos preços e total em estoque dos produtos
+![Media e total em estoque](media_e_estoque.png)
+
+#### Selecione o nome, marca e quantidade em estoque do produto mais caro
+![Mais caro](mais_caro.png)
+
+#### Selecione os produtos com preço acima da média
+![Acima da média](acima_media.png)
+
+#### Selecione a quantidade de produtos de cada nacionalidade
+![Quantidade por nacionalidade](nacionalidade.png)
+
+### Etapa 3
+
+Execute toda a atividade no WorkBench da Oracle;
+
+Comente o código esclarecendo o que está sendo feito no bloco de código;
+
+Crie um repositório remoto (GITHUB);
+
+Envie somente o script SQL para o repositório;
+
+Crie o ReadMe com base no modelo disponibilizado em aula;
+
+Tire um print da tela do WorkBench e insira no ReadMe;
+
+Envie na atividade somente o link do repositório criado.
+
+
