@@ -16,6 +16,10 @@ Após a criação insira cinco produtos, todos devem ter seus respectivos campos
 Verifique se todos os dados foram inseridos;
 
 Ao término inicie a segunda etapa.
+#### Foto da criação da tabela
+![Foto Criação](criação_da_tabela_e_o_inserimento_de_dados.png)
 
 #### Foto da tabela com todos os 5 dados selecionados
 ![Foto verificação](mostrar_os_produtos.png)
+
+### Etapa2
