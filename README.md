@@ -64,4 +64,5 @@ Tire um print da tela do WorkBench e insira no ReadMe;
 
 Envie na atividade somente o link do repositório criado.
 
-#### Código da tarefa documentado: ![Código da tarefa](ac2_oficial.sql)
+#### Código da tarefa documentado: 
+![Código da tarefa](ac2_oficial.sql)
